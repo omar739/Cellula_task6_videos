@@ -1,0 +1,5 @@
+increase Brightness ->( +100 or +50 )
+Frame Normalization ( divide by 255 )
+Frame Dropping -> (0.5)
+Frame Resizing -> ( 224, 224 )
+Video frame sampling ( 200 Frame Fixed for all videos and 25 FPS )

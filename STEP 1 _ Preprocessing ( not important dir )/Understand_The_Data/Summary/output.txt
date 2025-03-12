@@ -1,0 +1,3 @@
+width = 704
+height = 576
+Channels = 3
